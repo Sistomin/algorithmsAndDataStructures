@@ -1,5 +1,6 @@
 public class HeapSort
         // Пирамидальная сортировка на Java
+        // Истомин СА группа 4832
 {
     public void sort(int arr[])
     {
